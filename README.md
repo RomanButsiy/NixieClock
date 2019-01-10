@@ -7,7 +7,7 @@
   - Схема: https://easyeda.com/Targaryen/Nixie_Clock
   - Github: https://github.com/RomanButsiy/NixieClock
   - Автори: Железняков Андрей, AlexGyver, Technologies, Roman
-## Папки
+# Папки
 - ** libraries ** - бібліотеки проекту. Замінити наявні версії (в цьому проекті зовнішніх бібліотек немає)
 - ** firmware ** - прошивки для Arduino
 - ** schemes ** - схеми підключення компонентів
