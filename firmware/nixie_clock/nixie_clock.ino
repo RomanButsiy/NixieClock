@@ -1,7 +1,7 @@
 /*
   Годинник на газорозрядних індикаторах
   Канал на YouTube: https://goo.gl/x8FL2o
-  Відео з проектом: https://youtu.be/_ILRcJvoDXQ
+  Відео з проектом: https://youtu.be/rWZkPMapb_8
   Схема: https://easyeda.com/Targaryen/Nixie_Clock
   Github: https://github.com/RomanButsiy/NixieClock
   Автори: Железняков Андрей, AlexGyver, Technologies, Roman
